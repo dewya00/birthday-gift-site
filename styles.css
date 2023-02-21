@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4, p {
-    text-shadow: 0 0 1px black;
+    text-shadow: 0 0 8px black;
 }
 
 #bff-img {
@@ -80,6 +80,7 @@ h1, h2, h3, h4, p {
     width: 400px;
     margin: 40px auto 20px;
     color: red;
+    text-shadow: 0 0 3px black;
 }
 
 
